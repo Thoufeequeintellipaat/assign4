@@ -1,1 +1,2 @@
 This is new master txt file for pushing
+Editigin the master file from private branch
